@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B7304E0A-5D23-83F8-9780-C1B495068D03}") = "FPS_Tutorial_JimmyVegas", "Assembly-CSharp-firstpass.csproj", "{17897F5C-9B3F-48A4-84C7-E31D67BBDBC0}"
+EndProject
+Project("{B7304E0A-5D23-83F8-9780-C1B495068D03}") = "FPS_Tutorial_JimmyVegas", "Assembly-CSharp-Editor.csproj", "{A8CE1DEF-D07D-2028-704A-36BFB9ADFA56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17897F5C-9B3F-48A4-84C7-E31D67BBDBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17897F5C-9B3F-48A4-84C7-E31D67BBDBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17897F5C-9B3F-48A4-84C7-E31D67BBDBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17897F5C-9B3F-48A4-84C7-E31D67BBDBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8CE1DEF-D07D-2028-704A-36BFB9ADFA56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8CE1DEF-D07D-2028-704A-36BFB9ADFA56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8CE1DEF-D07D-2028-704A-36BFB9ADFA56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8CE1DEF-D07D-2028-704A-36BFB9ADFA56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
